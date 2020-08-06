@@ -1,8 +1,8 @@
 {
   "name": "mashup-template",
-  "author": "Antoine Renault <antoine.renault.mmi@gmail.com>",
+  "author": "",
   "version": "0.1.0",
-  "description": "Mashup Template",
+  "description": "Tian Huang || Landing Website",
   "license": "MIT",
   "engines": {
     "node": ">=6"
